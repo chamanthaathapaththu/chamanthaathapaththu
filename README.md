@@ -8,8 +8,3 @@
 - 🌱 Environment science
 - 🌍 GIS, Remote sensing
 - 💻 Python, R, javascript (GEE)
-
-## YouTube Channel
-
-Check out my YouTube channel for tutorials.
-<iframe width="560" height="315" src="https://www.youtube.com/@brightec703" frameborder="0" allowfullscreen></iframe>
